@@ -31,3 +31,10 @@ body {
 .wrapper .automobile.luxury {
   background-color: hsl(179, 100%, 13%);
 }
+.wrapper .automobile .automobile-type {
+  text-transform: uppercase;
+  margin-top: 1.875rem;
+  font-family: "Big Shoulders Display", cursive;
+  color: hsl(0, 0%, 95%);
+  font-weight: 700;
+}
