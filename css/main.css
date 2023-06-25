@@ -38,3 +38,9 @@ body {
   color: hsl(0, 0%, 95%);
   font-weight: 700;
 }
+.wrapper .automobile .automobile-desc {
+  margin-top: 1.25rem;
+  color: hsla(0, 0%, 100%, 0.75);
+  font-size: 0.9375rem;
+  font-weight: 400;
+}

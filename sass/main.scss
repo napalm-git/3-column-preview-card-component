@@ -44,7 +44,14 @@ body {
       margin-top: 1.875rem;
       font-family: $ff-secondary;
       color: $color-header-button;
-      font-weight: 700;
+      font-weight: $fw-bold;
+    }
+
+    .automobile-desc {
+      margin-top: 1.25rem;
+      color: $color-text;
+      font-size: $fs-text;
+      font-weight: $fw-normal;
     }
   }
 }
