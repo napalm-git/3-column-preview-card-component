@@ -1,0 +1,14 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.0",
+  "description": "3-column-preview-card-component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "napalm-git",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
