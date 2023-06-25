@@ -63,3 +63,18 @@ body {
 .wrapper .learn-more.luxury {
   color: hsl(179, 100%, 13%);
 }
+.wrapper .learn-more.sedan:hover, .wrapper .learn-more.sedan:active {
+  border: 2px solid hsla(0, 0%, 100%, 0.75);
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+}
+.wrapper .learn-more.suv:hover, .wrapper .learn-more.suv:active {
+  border: 2px solid hsla(0, 0%, 100%, 0.75);
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+}
+.wrapper .learn-more.luxury:hover, .wrapper .learn-more.luxury:active {
+  border: 2px solid hsla(0, 0%, 100%, 0.75);
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+}

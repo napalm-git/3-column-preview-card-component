@@ -76,5 +76,26 @@ body {
     &.luxury {
       color: $color-luxury;
     }
+
+    // Hover & Active States
+
+    &.sedan:hover,
+    &.sedan:active {
+      border: 2px solid hsla(0, 0%, 100%, 0.75);
+      background-color: hsl(31, 77%, 52%);
+      color: hsl(0, 0%, 95%);
+    }
+    &.suv:hover,
+    &.suv:active {
+      border: 2px solid hsla(0, 0%, 100%, 0.75);
+      background-color: hsl(184, 100%, 22%);
+      color: hsl(0, 0%, 95%);
+    }
+    &.luxury:hover,
+    &.luxury:active {
+      border: 2px solid hsla(0, 0%, 100%, 0.75);
+      background-color: hsl(179, 100%, 13%);
+      color: hsl(0, 0%, 95%);
+    }
   }
 }
