@@ -22,4 +22,11 @@ body {
   grid-template-columns: repeat(3, 0.5fr);
   height: 50vh;
   width: 875px;
+
+  // Automobile section
+
+  .automobile {
+    color: $color-header-button;
+    padding: 2.5rem;
+  }
 }

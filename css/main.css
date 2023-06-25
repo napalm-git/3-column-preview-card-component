@@ -18,3 +18,7 @@ body {
   height: 50vh;
   width: 875px;
 }
+.wrapper .automobile {
+  color: hsl(0, 0%, 95%);
+  padding: 2.5rem;
+}
