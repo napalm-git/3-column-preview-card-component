@@ -54,4 +54,17 @@ body {
       font-weight: $fw-normal;
     }
   }
+
+  // Button Styles
+
+  .learn-more {
+    border: none;
+    cursor: pointer;
+    height: 45px;
+    width: 75%;
+    border-radius: 50px;
+    margin-top: 5rem;
+    background-color: $color-header-button;
+    font-weight: $fw-bold;
+  }
 }
