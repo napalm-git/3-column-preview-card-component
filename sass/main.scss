@@ -66,5 +66,15 @@ body {
     margin-top: 5rem;
     background-color: $color-header-button;
     font-weight: $fw-bold;
+
+    &.sedan {
+      color: $color-sedan;
+    }
+    &.suv {
+      color: $color-suv;
+    }
+    &.luxury {
+      color: $color-luxury;
+    }
   }
 }
