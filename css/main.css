@@ -22,3 +22,12 @@ body {
   color: hsl(0, 0%, 95%);
   padding: 2.5rem;
 }
+.wrapper .automobile.sedan {
+  background-color: hsl(31, 77%, 52%);
+}
+.wrapper .automobile.suv {
+  background-color: hsl(184, 100%, 22%);
+}
+.wrapper .automobile.luxury {
+  background-color: hsl(179, 100%, 13%);
+}

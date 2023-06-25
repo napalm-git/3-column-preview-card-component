@@ -28,5 +28,15 @@ body {
   .automobile {
     color: $color-header-button;
     padding: 2.5rem;
+
+    &.sedan {
+      background-color: $color-sedan;
+    }
+    &.suv {
+      background-color: $color-suv;
+    }
+    &.luxury {
+      background-color: $color-luxury;
+    }
   }
 }
