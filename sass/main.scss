@@ -103,4 +103,8 @@ body {
 // Media Queries
 
 @media (max-width: 877px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+    height: 100vh;
+  }
 }
