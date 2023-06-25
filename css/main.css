@@ -11,3 +11,10 @@ body {
   height: 100vh;
   font-family: "Lexend Deca", sans-serif;
 }
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 0.5fr);
+  height: 50vh;
+  width: 875px;
+}

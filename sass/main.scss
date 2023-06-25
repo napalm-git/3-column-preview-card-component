@@ -14,3 +14,12 @@ body {
   height: 100vh;
   font-family: $ff-primary;
 }
+
+// Main Container
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 0.5fr);
+  height: 50vh;
+  width: 875px;
+}
